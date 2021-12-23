@@ -2,111 +2,111 @@
   
   // "401.help": "You're not authorized to access this page. You can use the button below to get back to the home page.",
   // TODO New key - Add a translation
-  "401.help": "You're not authorized to access this page. You can use the button below to get back to the home page.",
+  "401.help": "Nie masz uprawnień do dostępu do tej strony. Możesz użyć przycisku poniżej, aby powrócić do strony głównej.",
   
   // "401.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "401.link.home-page": "Take me to the home page",
+  "401.link.home-page": "Zabierz mnie na stronę główną",
   
   // "401.unauthorized": "unauthorized",
   // TODO New key - Add a translation
-  "401.unauthorized": "unauthorized",
+  "401.unauthorized": "nieautoryzowany",
   
   
   
   // "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
   // TODO New key - Add a translation
-  "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
+  "403.help": "Nie masz uprawnień do dostępu do tej strony. Możesz użyć przycisku poniżej, aby wrócić do strony głównej.",
   
   // "403.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "403.link.home-page": "Take me to the home page",
+  "403.link.home-page": "Zabierz mnie na stronę główną",
   
   // "403.forbidden": "forbidden",
   // TODO New key - Add a translation
-  "403.forbidden": "forbidden",
+  "403.forbidden": "zabroniony",
   
   
   
   // "404.help": "We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page. ",
   // TODO New key - Add a translation
-  "404.help": "We can't find the page you're looking for. The page may have been moved or deleted. You can use the button below to get back to the home page. ",
+  "404.help": "Nie możemy znaleźć strony, której szukasz. Strona mogła zostać przeniesiona lub usunięta. Możesz użyć przycisku poniżej, aby powrócić do strony głównej. ",
   
   // "404.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "404.link.home-page": "Take me to the home page",
+  "404.link.home-page": "Zabierz mnie na stronę główną",
   
   // "404.page-not-found": "page not found",
   // TODO New key - Add a translation
-  "404.page-not-found": "page not found",
+  "404.page-not-found": "strona nie została znaleziona",
   
   // "admin.curation-tasks.breadcrumbs": "System curation tasks",
   // TODO New key - Add a translation
-  "admin.curation-tasks.breadcrumbs": "System curation tasks",
+  "admin.curation-tasks.breadcrumbs": "Systemowe zadania kontrolne",
   
   // "admin.curation-tasks.title": "System curation tasks",
   // TODO New key - Add a translation
-  "admin.curation-tasks.title": "System curation tasks",
+  "admin.curation-tasks.title": "Systemowe zadania kontrolne",
   
   // "admin.curation-tasks.header": "System curation tasks",
   // TODO New key - Add a translation
-  "admin.curation-tasks.header": "System curation tasks",
+  "admin.curation-tasks.header": "Systemowe zadania kontrolne",
   
   // "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
+  "admin.registries.bitstream-formats.breadcrumbs": "Rejestr formatów",
   
   // "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
+  "admin.registries.bitstream-formats.create.breadcrumbs": "Format strumienia bitów",
   
   // "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
+  "admin.registries.bitstream-formats.create.failure.content": "Wystąpił błąd podczas tworzenia nowego formatu strumienia bitów.",
   
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.failure.head": "Failure",
+  "admin.registries.bitstream-formats.create.failure.head": "Niepowodzenie",
   
   // "admin.registries.bitstream-formats.create.head": "Create Bitstream format",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.head": "Create Bitstream format",
+  "admin.registries.bitstream-formats.create.head": "Utwórz nowy format strumienia bitów",
   
   // "admin.registries.bitstream-formats.create.new": "Add a new bitstream format",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.new": "Add a new bitstream format",
+  "admin.registries.bitstream-formats.create.new": "Dodaj nowy format strumienia bitów",
   
   // "admin.registries.bitstream-formats.create.success.content": "The new bitstream format was successfully created.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.success.content": "The new bitstream format was successfully created.",
+  "admin.registries.bitstream-formats.create.success.content": "Nowy format strumienia bitów został pomyślnie utworzony.",
   
   // "admin.registries.bitstream-formats.create.success.head": "Success",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.success.head": "Success",
+  "admin.registries.bitstream-formats.create.success.head": "Udało się",
   
   // "admin.registries.bitstream-formats.delete.failure.amount": "Failed to remove {{ amount }} format(s)",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.delete.failure.amount": "Failed to remove {{ amount }} format(s)",
+  "admin.registries.bitstream-formats.delete.failure.amount": "Nie udało się usunąć {{ amount }} formatu(ów)",
   
   // "admin.registries.bitstream-formats.delete.failure.head": "Failure",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.delete.failure.head": "Failure",
+  "admin.registries.bitstream-formats.delete.failure.head": "Nie udało się",
   
   // "admin.registries.bitstream-formats.delete.success.amount": "Successfully removed {{ amount }} format(s)",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.delete.success.amount": "Successfully removed {{ amount }} format(s)",
+  "admin.registries.bitstream-formats.delete.success.amount": "Udało się usunąć {{ amount }} formatu(ów)",
   
   // "admin.registries.bitstream-formats.delete.success.head": "Success",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.delete.success.head": "Success",
+  "admin.registries.bitstream-formats.delete.success.head": "Udało się",
   
   // "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
+  "admin.registries.bitstream-formats.description": "Ta lista formatów strumieni bitowych dostarcza informacje o znanych formatach i poziomie ich wsparcia.",
   
   // "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
+  "admin.registries.bitstream-formats.edit.breadcrumbs": "Format strumienia bitów",
   
   // "admin.registries.bitstream-formats.edit.description.hint": "",
   // TODO New key - Add a translation
@@ -114,161 +114,161 @@
   
   // "admin.registries.bitstream-formats.edit.description.label": "Description",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.description.label": "Description",
+  "admin.registries.bitstream-formats.edit.description.label": "Opis",
   
   // "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
+  "admin.registries.bitstream-formats.edit.extensions.hint": "Rozszerzenia to rozszerzenia plików, które są używane do automatycznej identyfikacji formatu przesyłanych plików. Możesz wprowadzić kilka rozszerzeń dla każdego formatu.",
   
   // "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
+  "admin.registries.bitstream-formats.edit.extensions.label": "Rozszerzenia plików",
   
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
+  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Wprowadź rozszerzenie pliku bez kropki",
   
   // "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
+  "admin.registries.bitstream-formats.edit.failure.content": "Wystąpił błąd podczas edycji formatu bitstream.",
   
   // "admin.registries.bitstream-formats.edit.failure.head": "Failure",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.failure.head": "Failure",
+  "admin.registries.bitstream-formats.edit.failure.head": "Nie udało się",
   
   // "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
+  "admin.registries.bitstream-formats.edit.head": "Format strumieni bitowych: {{ format }}",
   
   // "admin.registries.bitstream-formats.edit.internal.hint": "Formats marked as internal are hidden from the user, and used for administrative purposes.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.internal.hint": "Formats marked as internal are hidden from the user, and used for administrative purposes.",
+  "admin.registries.bitstream-formats.edit.internal.hint": "Formaty oznaczone jako wewnętrzne są ukryte przed użytkownikiem i wykorzystywane do celów administracyjnych.",
   
   // "admin.registries.bitstream-formats.edit.internal.label": "Internal",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.internal.label": "Internal",
+  "admin.registries.bitstream-formats.edit.internal.label": "Wewnętrzny",
   
   // "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
+  "admin.registries.bitstream-formats.edit.mimetype.hint": "Typ MIME powiązany z tym formatem, nie musi być unikalny.",
   
   // "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
+  "admin.registries.bitstream-formats.edit.mimetype.label": "Typ MIME",
   
   // "admin.registries.bitstream-formats.edit.shortDescription.hint": "A unique name for this format, (e.g. Microsoft Word XP or Microsoft Word 2000)",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.shortDescription.hint": "A unique name for this format, (e.g. Microsoft Word XP or Microsoft Word 2000)",
+  "admin.registries.bitstream-formats.edit.shortDescription.hint": "Unikalna nazwa dla tego formatu, (np. Microsoft Word XP lub Microsoft Word 2000)",
   
   // "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
+  "admin.registries.bitstream-formats.edit.shortDescription.label": "Nazwa",
   
   // "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
+  "admin.registries.bitstream-formats.edit.success.content": "Format strumienia bitów został pomyślnie edytowany.",
   
   // "admin.registries.bitstream-formats.edit.success.head": "Success",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.success.head": "Success",
+  "admin.registries.bitstream-formats.edit.success.head": "Udało się",
   
   // "admin.registries.bitstream-formats.edit.supportLevel.hint": "The level of support your institution pledges for this format.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.supportLevel.hint": "The level of support your institution pledges for this format.",
+  "admin.registries.bitstream-formats.edit.supportLevel.hint": "Poziom wsparcia, jaki Twoja instytucja deklaruje dla tego formatu.",
   
   // "admin.registries.bitstream-formats.edit.supportLevel.label": "Support level",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.supportLevel.label": "Support level",
+  "admin.registries.bitstream-formats.edit.supportLevel.label": "Poziom wsparcia",
   
   // "admin.registries.bitstream-formats.head": "Bitstream Format Registry",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.head": "Bitstream Format Registry",
+  "admin.registries.bitstream-formats.head": "Rejestr formatów bitowych",
   
   // "admin.registries.bitstream-formats.no-items": "No bitstream formats to show.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.no-items": "No bitstream formats to show.",
+  "admin.registries.bitstream-formats.no-items": "Brak formatów bitstream do pokazania.",
   
   // "admin.registries.bitstream-formats.table.delete": "Delete selected",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.delete": "Delete selected",
+  "admin.registries.bitstream-formats.table.delete": "Usuń zaznaczone",
   
   // "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
+  "admin.registries.bitstream-formats.table.deselect-all": "Odznacz wszystkie",
   
   // "admin.registries.bitstream-formats.table.internal": "internal",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.internal": "internal",
+  "admin.registries.bitstream-formats.table.internal": "wewnętrzne",
   
-  // "admin.registries.bitstream-formats.table.mimetype": "MIME Type",
+  // "admin.registries.bitstream-formats.table.mimetype": "Typ MIME",
   // TODO New key - Add a translation
   "admin.registries.bitstream-formats.table.mimetype": "MIME Type",
   
   // "admin.registries.bitstream-formats.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.name": "Name",
+  "admin.registries.bitstream-formats.table.name": "Nazwa",
   
   // "admin.registries.bitstream-formats.table.return": "Return",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.return": "Return",
+  "admin.registries.bitstream-formats.table.return": "Wróc",
   
   // "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Known",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Known",
+  "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Znane",
   
   // "admin.registries.bitstream-formats.table.supportLevel.SUPPORTED": "Supported",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.supportLevel.SUPPORTED": "Supported",
+  "admin.registries.bitstream-formats.table.supportLevel.SUPPORTED": "Wspierane",
   
   // "admin.registries.bitstream-formats.table.supportLevel.UNKNOWN": "Unknown",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.supportLevel.UNKNOWN": "Unknown",
+  "admin.registries.bitstream-formats.table.supportLevel.UNKNOWN": "Nieznane",
   
   // "admin.registries.bitstream-formats.table.supportLevel.head": "Support Level",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.supportLevel.head": "Support Level",
+  "admin.registries.bitstream-formats.table.supportLevel.head": "Poziom wsparcia",
   
   // "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
+  "admin.registries.bitstream-formats.title": "DSpace Angular :: Rejestr formatów strumieni bitowych",
   
   
   
   // "admin.registries.metadata.breadcrumbs": "Metadata registry",
   // TODO New key - Add a translation
-  "admin.registries.metadata.breadcrumbs": "Metadata registry",
+  "admin.registries.metadata.breadcrumbs": "Rejestr metadanych",
   
   // "admin.registries.metadata.description": "The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas. However, DSpace requires the qualified Dublin Core schema.",
   // TODO New key - Add a translation
-  "admin.registries.metadata.description": "The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas. However, DSpace requires the qualified Dublin Core schema.",
+  "admin.registries.metadata.description": "Rejestr metadanych utrzymuje listę wszystkich pól metadanych dostępnych w repozytorium. Pola te mogą być podzielone pomiędzy wiele schematów. DSpace wymaga jednak kwalifikowanego schematu Dublin Core.",
   
   // "admin.registries.metadata.form.create": "Create metadata schema",
   // TODO New key - Add a translation
-  "admin.registries.metadata.form.create": "Create metadata schema",
+  "admin.registries.metadata.form.create": "Utwórz schemat metadanych",
   
   // "admin.registries.metadata.form.edit": "Edit metadata schema",
   // TODO New key - Add a translation
-  "admin.registries.metadata.form.edit": "Edit metadata schema",
+  "admin.registries.metadata.form.edit": "Edytuj schemat metadanych",
   
   // "admin.registries.metadata.form.name": "Name",
   // TODO New key - Add a translation
-  "admin.registries.metadata.form.name": "Name",
+  "admin.registries.metadata.form.name": "Nazwa",
   
   // "admin.registries.metadata.form.namespace": "Namespace",
   // TODO New key - Add a translation
-  "admin.registries.metadata.form.namespace": "Namespace",
+  "admin.registries.metadata.form.namespace": "Nazwa obszaru",
   
   // "admin.registries.metadata.head": "Metadata Registry",
   // TODO New key - Add a translation
-  "admin.registries.metadata.head": "Metadata Registry",
+  "admin.registries.metadata.head": "Rejestr metadanych",
   
   // "admin.registries.metadata.schemas.no-items": "No metadata schemas to show.",
   // TODO New key - Add a translation
-  "admin.registries.metadata.schemas.no-items": "No metadata schemas to show.",
+  "admin.registries.metadata.schemas.no-items": "Brak rejestrów metadanych do pokazania.",
   
   // "admin.registries.metadata.schemas.table.delete": "Delete selected",
   // TODO New key - Add a translation
-  "admin.registries.metadata.schemas.table.delete": "Delete selected",
+  "admin.registries.metadata.schemas.table.delete": "Usuń zaznaczone",
   
   // "admin.registries.metadata.schemas.table.id": "ID",
   // TODO New key - Add a translation
@@ -276,53 +276,53 @@
   
   // "admin.registries.metadata.schemas.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.registries.metadata.schemas.table.name": "Name",
+  "admin.registries.metadata.schemas.table.name": "Nazwa",
   
   // "admin.registries.metadata.schemas.table.namespace": "Namespace",
   // TODO New key - Add a translation
-  "admin.registries.metadata.schemas.table.namespace": "Namespace",
+  "admin.registries.metadata.schemas.table.namespace": "Nazwa obszaru",
   
   // "admin.registries.metadata.title": "DSpace Angular :: Metadata Registry",
   // TODO New key - Add a translation
-  "admin.registries.metadata.title": "DSpace Angular :: Metadata Registry",
+  "admin.registries.metadata.title": "DSpace Angular :: Rejestr metadanych",
   
   
   
   // "admin.registries.schema.breadcrumbs": "Metadata schema",
   // TODO New key - Add a translation
-  "admin.registries.schema.breadcrumbs": "Metadata schema",
+  "admin.registries.schema.breadcrumbs": "Schemat metadanych",
   
   // "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
   // TODO New key - Add a translation
-  "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
+  "admin.registries.schema.description": "Ten schemat metadanych określa \"{{namespace}}\".",
   
   // "admin.registries.schema.fields.head": "Schema metadata fields",
   // TODO New key - Add a translation
-  "admin.registries.schema.fields.head": "Schema metadata fields",
+  "admin.registries.schema.fields.head": "Pola schematu metadanych",
   
   // "admin.registries.schema.fields.no-items": "No metadata fields to show.",
   // TODO New key - Add a translation
-  "admin.registries.schema.fields.no-items": "No metadata fields to show.",
+  "admin.registries.schema.fields.no-items": "Brak pól metadanych do pokazania.",
   
   // "admin.registries.schema.fields.table.delete": "Delete selected",
   // TODO New key - Add a translation
-  "admin.registries.schema.fields.table.delete": "Delete selected",
+  "admin.registries.schema.fields.table.delete": "Usuń zaznaczone",
   
   // "admin.registries.schema.fields.table.field": "Field",
   // TODO New key - Add a translation
-  "admin.registries.schema.fields.table.field": "Field",
+  "admin.registries.schema.fields.table.field": "Pole",
   
   // "admin.registries.schema.fields.table.scopenote": "Scope Note",
   // TODO New key - Add a translation
-  "admin.registries.schema.fields.table.scopenote": "Scope Note",
+  "admin.registries.schema.fields.table.scopenote": "Uwaga o zakresie",
   
   // "admin.registries.schema.form.create": "Create metadata field",
   // TODO New key - Add a translation
-  "admin.registries.schema.form.create": "Create metadata field",
+  "admin.registries.schema.form.create": "Stwórz pole metadanych",
   
   // "admin.registries.schema.form.edit": "Edit metadata field",
   // TODO New key - Add a translation
-  "admin.registries.schema.form.edit": "Edit metadata field",
+  "admin.registries.schema.form.edit": "Edytuj pole metadanych",
   
   // "admin.registries.schema.form.element": "Element",
   // TODO New key - Add a translation
@@ -330,7 +330,7 @@
   
   // "admin.registries.schema.form.qualifier": "Qualifier",
   // TODO New key - Add a translation
-  "admin.registries.schema.form.qualifier": "Qualifier",
+  "admin.registries.schema.form.qualifier": "Kwalyfikator",
   
   // "admin.registries.schema.form.scopenote": "Scope Note",
   // TODO New key - Add a translation
@@ -338,73 +338,73 @@
   
   // "admin.registries.schema.head": "Metadata Schema",
   // TODO New key - Add a translation
-  "admin.registries.schema.head": "Metadata Schema",
+  "admin.registries.schema.head": "Uwaga o zakresie",
   
   // "admin.registries.schema.notification.created": "Successfully created metadata schema \"{{prefix}}\"",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.created": "Successfully created metadata schema \"{{prefix}}\"",
+  "admin.registries.schema.notification.created": "Udało się utworzyć schmat metdanych \"{{prefix}}\"",
   
   // "admin.registries.schema.notification.deleted.failure": "Failed to delete {{amount}} metadata schemas",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.deleted.failure": "Failed to delete {{amount}} metadata schemas",
+  "admin.registries.schema.notification.deleted.failure": "Nie udało się usunąć {{amount}} schematów metadanych",
   
   // "admin.registries.schema.notification.deleted.success": "Successfully deleted {{amount}} metadata schemas",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.deleted.success": "Successfully deleted {{amount}} metadata schemas",
+  "admin.registries.schema.notification.deleted.success": "Udało się usunąć {{amount}} schematów metadanych",
   
   // "admin.registries.schema.notification.edited": "Successfully edited metadata schema \"{{prefix}}\"",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.edited": "Successfully edited metadata schema \"{{prefix}}\"",
+  "admin.registries.schema.notification.edited": "Udało się edytować schemat metadanych \"{{prefix}}\"",
   
   // "admin.registries.schema.notification.failure": "Error",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.failure": "Error",
+  "admin.registries.schema.notification.failure": "Błąd",
   
   // "admin.registries.schema.notification.field.created": "Successfully created metadata field \"{{field}}\"",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.field.created": "Successfully created metadata field \"{{field}}\"",
+  "admin.registries.schema.notification.field.created": "Udało się utworzyć pole metadanych \"{{field}}\"",
   
   // "admin.registries.schema.notification.field.deleted.failure": "Failed to delete {{amount}} metadata fields",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.field.deleted.failure": "Failed to delete {{amount}} metadata fields",
+  "admin.registries.schema.notification.field.deleted.failure": "Nie udało się usunąć {{amount}} pól metadanych",
   
   // "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
+  "admin.registries.schema.notification.field.deleted.success": "Udało się usunąć {{amount}} pól metadanych",
   
   // "admin.registries.schema.notification.field.edited": "Successfully edited metadata field \"{{field}}\"",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.field.edited": "Successfully edited metadata field \"{{field}}\"",
+  "admin.registries.schema.notification.field.edited": "Udało się edytować pole metadanych \"{{field}}\"",
   
   // "admin.registries.schema.notification.success": "Success",
   // TODO New key - Add a translation
-  "admin.registries.schema.notification.success": "Success",
+  "admin.registries.schema.notification.success": "Udało się",
   
   // "admin.registries.schema.return": "Return",
   // TODO New key - Add a translation
-  "admin.registries.schema.return": "Return",
+  "admin.registries.schema.return": "Powrót",
   
   // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
   // TODO New key - Add a translation
-  "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
+  "admin.registries.schema.title": "DSpace Angular :: Rejestr schematów metadanych",
   
   
   
   // "admin.access-control.epeople.actions.delete": "Delete EPerson",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.delete": "Delete EPerson",
+  "admin.access-control.epeople.actions.delete": "Usuń EPerson",
   
   // "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
+  "admin.access-control.epeople.actions.impersonate": "Personifikuj EPerson",
   
   // "admin.access-control.epeople.actions.reset": "Reset password",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.reset": "Reset password",
+  "admin.access-control.epeople.actions.reset": "Zresetuj hasło",
   
   // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
+  "admin.access-control.epeople.actions.stop-impersonating": "Przestań personifikować EPerson",
   
   // "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
   // TODO New key - Add a translation
@@ -416,27 +416,27 @@
   
   // "admin.access-control.epeople.search.head": "Search",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.search.head": "Search",
+  "admin.access-control.epeople.search.head": "Wyszukaj",
   
   // "admin.access-control.epeople.button.see-all": "Browse All",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.button.see-all": "Browse All",
+  "admin.access-control.epeople.button.see-all": "Przeglądaj wszystko",
   
   // "admin.access-control.epeople.search.scope.metadata": "Metadata",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.search.scope.metadata": "Metadata",
+  "admin.access-control.epeople.search.scope.metadata": "Metadane",
   
   // "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
+  "admin.access-control.epeople.search.scope.email": "E-mail (dokładny)",
   
   // "admin.access-control.epeople.search.button": "Search",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.search.button": "Search",
+  "admin.access-control.epeople.search.button": "Wyszukj",
   
   // "admin.access-control.epeople.button.add": "Add EPerson",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.button.add": "Add EPerson",
+  "admin.access-control.epeople.button.add": "Dodaj EPerson",
   
   // "admin.access-control.epeople.table.id": "ID",
   // TODO New key - Add a translation
@@ -444,43 +444,43 @@
   
   // "admin.access-control.epeople.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.table.name": "Name",
+  "admin.access-control.epeople.table.name": "Nazwa",
   
   // "admin.access-control.epeople.table.email": "E-mail (exact)",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.table.email": "E-mail (exact)",
+  "admin.access-control.epeople.table.email": "E-mail (dokładny)",
   
   // "admin.access-control.epeople.table.edit": "Edit",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.table.edit": "Edit",
+  "admin.access-control.epeople.table.edit": "Edytuj",
   
   // "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
+  "admin.access-control.epeople.table.edit.buttons.edit": "Edytuj \"{{name}}\"",
   
   // "admin.access-control.epeople.table.edit.buttons.remove": "Delete \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.table.edit.buttons.remove": "Delete \"{{name}}\"",
+  "admin.access-control.epeople.table.edit.buttons.remove": "Usuń \"{{name}}\"",
   
   // "admin.access-control.epeople.no-items": "No EPeople to show.",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.no-items": "No EPeople to show.",
+  "admin.access-control.epeople.no-items": "Brak EPeople do wyświetlenia.",
   
   // "admin.access-control.epeople.form.create": "Create EPerson",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.create": "Create EPerson",
+  "admin.access-control.epeople.form.create": "Utwórz EPerson",
   
   // "admin.access-control.epeople.form.edit": "Edit EPerson",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.edit": "Edit EPerson",
+  "admin.access-control.epeople.form.edit": "Edytuj EPerson",
   
   // "admin.access-control.epeople.form.firstName": "First name",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.firstName": "First name",
+  "admin.access-control.epeople.form.firstName": "Imię",
   
   // "admin.access-control.epeople.form.lastName": "Last name",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.lastName": "Last name",
+  "admin.access-control.epeople.form.lastName": "Nazwisko",
   
   // "admin.access-control.epeople.form.email": "E-mail",
   // TODO New key - Add a translation
@@ -488,51 +488,51 @@
   
   // "admin.access-control.epeople.form.emailHint": "Must be valid e-mail address",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.emailHint": "Must be valid e-mail address",
+  "admin.access-control.epeople.form.emailHint": "Adres e-mail musi być poprawny",
   
   // "admin.access-control.epeople.form.canLogIn": "Can log in",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.canLogIn": "Can log in",
+  "admin.access-control.epeople.form.canLogIn": "Możesz się zalogować",
   
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
+  "admin.access-control.epeople.form.requireCertificate": "Wymaga certyfikatu",
   
   // "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.success": "Udało się stworzyć EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.created.failure": "Failed to create EPerson \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.created.failure": "Failed to create EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.failure": "Nie udało się stworzyć EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Failed to create EPerson \"{{name}}\", email \"{{email}}\" already in use.",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Failed to create EPerson \"{{name}}\", email \"{{email}}\" already in use.",
+  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Nie udało się stworzyć EPerson \"{{name}}\", email \"{{email}}\" już w użyciu.",
   
   // "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failed to edit EPerson \"{{name}}\", email \"{{email}}\" already in use.",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failed to edit EPerson \"{{name}}\", email \"{{email}}\" already in use.",
+  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Nie udało się edytować EPerson \"{{name}}\", email \"{{email}}\" już w użyciu.",
   
   // "admin.access-control.epeople.form.notification.edited.success": "Successfully edited EPerson \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.edited.success": "Successfully edited EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.success": "Udało się edytować EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.edited.failure": "Failed to edit EPerson \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.edited.failure": "Failed to edit EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.failure": "Nie udało się edytować EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.deleted.success": "Successfully deleted EPerson \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.deleted.success": "Successfully deleted EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.success": "Udało się usunąć EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.deleted.failure": "Failed to delete EPerson \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.notification.deleted.failure": "Failed to delete EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.failure": "Nie udało się usunąć EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Member of these groups:",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Member of these groups:",
+  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Członek tych grup:",
   
   // "admin.access-control.epeople.form.table.id": "ID",
   // TODO New key - Add a translation
@@ -540,57 +540,57 @@
   
   // "admin.access-control.epeople.form.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.table.name": "Name",
+  "admin.access-control.epeople.form.table.name": "Nazwa",
   
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
+  "admin.access-control.epeople.form.memberOfNoGroups": "Ten EPerson nie jest członkiem żadnej grupy",
   
   // "admin.access-control.epeople.form.goToGroups": "Add to groups",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.form.goToGroups": "Add to groups",
+  "admin.access-control.epeople.form.goToGroups": "Dodaj do grup",
   
   // "admin.access-control.epeople.notification.deleted.failure": "Failed to delete EPerson: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.notification.deleted.failure": "Failed to delete EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.failure": "Nie udało się usunąć EPerson: \"{{name}}\"",
   
   // "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.success": "Udało się usunąć EPerson: \"{{name}}\"",
   
   
   
   // "admin.access-control.groups.title": "DSpace Angular :: Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title": "DSpace Angular :: Groups",
+  "admin.access-control.groups.title": "DSpace Angular :: Grupy",
   
   // "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
+  "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edytuj grupę",
   
   // "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
+  "admin.access-control.groups.title.addGroup": "DSpace Angular :: Nowa grupa",
   
   // "admin.access-control.groups.head": "Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.head": "Groups",
+  "admin.access-control.groups.head": "Grupy",
   
   // "admin.access-control.groups.button.add": "Add group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.button.add": "Add group",
+  "admin.access-control.groups.button.add": "Dodaj grupę",
   
   // "admin.access-control.groups.search.head": "Search groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.search.head": "Search groups",
+  "admin.access-control.groups.search.head": "Wyszukaj grupę",
   
   // "admin.access-control.groups.button.see-all": "Browse all",
   // TODO New key - Add a translation
-  "admin.access-control.groups.button.see-all": "Browse all",
+  "admin.access-control.groups.button.see-all": "Przeglądaj wszystko",
   
   // "admin.access-control.groups.search.button": "Search",
   // TODO New key - Add a translation
-  "admin.access-control.groups.search.button": "Search",
+  "admin.access-control.groups.search.button": "Wyszukaj",
   
   // "admin.access-control.groups.table.id": "ID",
   // TODO New key - Add a translation
@@ -598,121 +598,121 @@
   
   // "admin.access-control.groups.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.access-control.groups.table.name": "Name",
+  "admin.access-control.groups.table.name": "Nazwa",
   
   // "admin.access-control.groups.table.members": "Members",
   // TODO New key - Add a translation
-  "admin.access-control.groups.table.members": "Members",
+  "admin.access-control.groups.table.members": "Członkowie",
   
   // "admin.access-control.groups.table.edit": "Edit",
   // TODO New key - Add a translation
-  "admin.access-control.groups.table.edit": "Edit",
+  "admin.access-control.groups.table.edit": "Edytuj",
   
   // "admin.access-control.groups.table.edit.buttons.edit": "Edit \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.table.edit.buttons.edit": "Edit \"{{name}}\"",
+  "admin.access-control.groups.table.edit.buttons.edit": "Edytuj \"{{name}}\"",
   
   // "admin.access-control.groups.table.edit.buttons.remove": "Delete \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.table.edit.buttons.remove": "Delete \"{{name}}\"",
+  "admin.access-control.groups.table.edit.buttons.remove": "Usuń \"{{name}}\"",
   
   // "admin.access-control.groups.no-items": "No groups found with this in their name or this as UUID",
   // TODO New key - Add a translation
-  "admin.access-control.groups.no-items": "No groups found with this in their name or this as UUID",
+  "admin.access-control.groups.no-items": "Nie znaleziono grup z tym w nazwie lub tym jako UUID",
   
   // "admin.access-control.groups.notification.deleted.success": "Successfully deleted group \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.notification.deleted.success": "Successfully deleted group \"{{name}}\"",
+  "admin.access-control.groups.notification.deleted.success": "Udało się usunąć grupę \"{{name}}\"",
   
   // "admin.access-control.groups.notification.deleted.failure.title": "Failed to delete group \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.notification.deleted.failure.title": "Failed to delete group \"{{name}}\"",
+  "admin.access-control.groups.notification.deleted.failure.title": "Nie udało się usunąć grupy \"{{name}}\"",
   
   // "admin.access-control.groups.notification.deleted.failure.content": "Cause: \"{{cause}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.notification.deleted.failure.content": "Cause: \"{{cause}}\"",
+  "admin.access-control.groups.notification.deleted.failure.content": "Powód: \"{{cause}}\"",
   
   
   
   // "admin.access-control.groups.form.alert.permanent": "This group is permanent, so it can't be edited or deleted. You can still add and remove group members using this page.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.alert.permanent": "This group is permanent, so it can't be edited or deleted. You can still add and remove group members using this page.",
+  "admin.access-control.groups.form.alert.permanent": "Ta grupa jest stała, więc nie może być edytowana ani usunięta. Nadal możesz dodawać i usuwać członków grupy za pomocą tej strony.",
   
   // "admin.access-control.groups.form.alert.workflowGroup": "This group can’t be modified or deleted because it corresponds to a role in the submission and workflow process in the \"{{name}}\" {{comcol}}. You can delete it from the <a href='{{comcolEditRolesRoute}}'>\"assign roles\"</a> tab on the edit {{comcol}} page. You can still add and remove group members using this page.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.alert.workflowGroup": "This group can’t be modified or deleted because it corresponds to a role in the submission and workflow process in the \"{{name}}\" {{comcol}}. You can delete it from the <a href='{{comcolEditRolesRoute}}'>\"assign roles\"</a> tab on the edit {{comcol}} page. You can still add and remove group members using this page.",
+  "admin.access-control.groups.form.alert.workflowGroup": "Ta grupa nie może być edytowana lub usunięta, ponieważ odnosi się do roli lub bierze udział w procesie \"{{name}}\" {{comcol}}. Możesz ją usunąć ze strony <a href='{{comcolEditRolesRoute}}'>\"assign roles\"</a> edycji {{comcol}}. Wciąż może dodawać i usuwać członków tej grupy, korzystając z tej strony.",
   
   // "admin.access-control.groups.form.head.create": "Create group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.head.create": "Create group",
+  "admin.access-control.groups.form.head.create": "Utwórz grupę",
   
   // "admin.access-control.groups.form.head.edit": "Edit group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.head.edit": "Edit group",
+  "admin.access-control.groups.form.head.edit": "Edytuj grupę",
   
   // "admin.access-control.groups.form.groupName": "Group name",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.groupName": "Group name",
+  "admin.access-control.groups.form.groupName": "Nazwa grupy",
   
   // "admin.access-control.groups.form.groupDescription": "Description",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.groupDescription": "Description",
+  "admin.access-control.groups.form.groupDescription": "Opis",
   
   // "admin.access-control.groups.form.notification.created.success": "Successfully created Group \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.created.success": "Successfully created Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.created.success": "Udało się utworzyć grupę \"{{name}}\"",
   
   // "admin.access-control.groups.form.notification.created.failure": "Failed to create Group \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.created.failure": "Failed to create Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.created.failure": "Nie udało się utworzyć grupy \"{{name}}\"",
   
   // "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Failed to create Group with name: \"{{name}}\", make sure the name is not already in use.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Failed to create Group with name: \"{{name}}\", make sure the name is not already in use.",
+  "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Nie udało się utworzyć grupy o nazwie: \"{{name}}\", upewnij się, że nazwa nie jest już używana.",
   
   // "admin.access-control.groups.form.notification.edited.failure": "Failed to edit Group \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.edited.failure": "Failed to edit Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.edited.failure": "Nie udało się edytować grupy \"{{name}}\"",
   
   // "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Name \"{{name}}\" already in use!",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Name \"{{name}}\" already in use!",
+  "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Nazwa \"{{name}}\" w użyciu!",
   
   // "admin.access-control.groups.form.notification.edited.success": "Successfully edited Group \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.edited.success": "Successfully edited Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.edited.success": "Udało się edytować grupę \"{{name}}\"",
   
   // "admin.access-control.groups.form.actions.delete": "Delete Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.actions.delete": "Delete Group",
+  "admin.access-control.groups.form.actions.delete": "Usuń grupę",
   
   // "admin.access-control.groups.form.delete-group.modal.header": "Delete Group \"{{ dsoName }}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.delete-group.modal.header": "Delete Group \"{{ dsoName }}\"",
+  "admin.access-control.groups.form.delete-group.modal.header": "Usuń grupę \"{{ dsoName }}\"",
   
   // "admin.access-control.groups.form.delete-group.modal.info": "Are you sure you want to delete Group \"{{ dsoName }}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.delete-group.modal.info": "Are you sure you want to delete Group \"{{ dsoName }}\"",
+  "admin.access-control.groups.form.delete-group.modal.info": "Czy na pewno chcesz usunąć grupę \"{{ dsoName }}\"",
   
   // "admin.access-control.groups.form.delete-group.modal.cancel": "Cancel",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.delete-group.modal.cancel": "Cancel",
+  "admin.access-control.groups.form.delete-group.modal.cancel": "Anuluj",
   
   // "admin.access-control.groups.form.delete-group.modal.confirm": "Delete",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.delete-group.modal.confirm": "Delete",
+  "admin.access-control.groups.form.delete-group.modal.confirm": "Usuń",
   
   // "admin.access-control.groups.form.notification.deleted.success": "Successfully deleted group \"{{ name }}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.deleted.success": "Successfully deleted group \"{{ name }}\"",
+  "admin.access-control.groups.form.notification.deleted.success": "Udało się usunąć grupę \"{{ name }}\"",
   
   // "admin.access-control.groups.form.notification.deleted.failure.title": "Failed to delete group \"{{ name }}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.deleted.failure.title": "Failed to delete group \"{{ name }}\"",
+  "admin.access-control.groups.form.notification.deleted.failure.title": "Nie udało się usunąć grupy \"{{ name }}\"",
   
   // "admin.access-control.groups.form.notification.deleted.failure.content": "Cause: \"{{ cause }}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.notification.deleted.failure.content": "Cause: \"{{ cause }}\"",
+  "admin.access-control.groups.form.notification.deleted.failure.content": "Powód: \"{{ cause }}\"",
   
   // "admin.access-control.groups.form.members-list.head": "EPeople",
   // TODO New key - Add a translation
@@ -720,27 +720,27 @@
   
   // "admin.access-control.groups.form.members-list.search.head": "Add EPeople",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.search.head": "Add EPeople",
+  "admin.access-control.groups.form.members-list.search.head": "Dodaj EPeople",
   
   // "admin.access-control.groups.form.members-list.button.see-all": "Browse All",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.button.see-all": "Browse All",
+  "admin.access-control.groups.form.members-list.button.see-all": "Wyświetl wszystko",
   
   // "admin.access-control.groups.form.members-list.headMembers": "Current Members",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.headMembers": "Current Members",
+  "admin.access-control.groups.form.members-list.headMembers": "Aktualni członkowie",
   
   // "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadata",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadata",
+  "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadane",
   
   // "admin.access-control.groups.form.members-list.search.scope.email": "E-mail (exact)",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.search.scope.email": "E-mail (exact)",
+  "admin.access-control.groups.form.members-list.search.scope.email": "E-mail (wszystko)",
   
   // "admin.access-control.groups.form.members-list.search.button": "Search",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.search.button": "Search",
+  "admin.access-control.groups.form.members-list.search.button": "Wyszukaj",
   
   // "admin.access-control.groups.form.members-list.table.id": "ID",
   // TODO New key - Add a translation
@@ -748,71 +748,71 @@
   
   // "admin.access-control.groups.form.members-list.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.table.name": "Name",
+  "admin.access-control.groups.form.members-list.table.name": "Nazwa",
   
   // "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
+  "admin.access-control.groups.form.members-list.table.edit": "Usuń / Dodaj",
   
   // "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remove member with name \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remove member with name \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Usuń członka z nazwą \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.success.addMember": "Successfully added member: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.notification.success.addMember": "Successfully added member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.success.addMember": "Udało się dodać członka: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.addMember": "Failed to add member: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.notification.failure.addMember": "Failed to add member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.failure.addMember": "Nie udało się dodać członka: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Successfully deleted member: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Successfully deleted member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Udało się usunąć członka: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Failed to delete member: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Failed to delete member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Nie udało się usunąć członka: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Add member with name \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Add member with name \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Dodaj członka \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
+  "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "Brak aktywnej grupy, najpierw wpisz nazwę grupy.",
   
   // "admin.access-control.groups.form.members-list.no-members-yet": "No members in group yet, search and add.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.no-members-yet": "No members in group yet, search and add.",
+  "admin.access-control.groups.form.members-list.no-members-yet": "Brak członków w grupie, wyszukaj ich i dodaj.",
   
   // "admin.access-control.groups.form.members-list.no-items": "No EPeople found in that search",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.members-list.no-items": "No EPeople found in that search",
+  "admin.access-control.groups.form.members-list.no-items": "Brak EPeople w tym wyszukiwaniu",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure": "Something went wrong: \"{{cause}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.failure": "Something went wrong: \"{{cause}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure": "Coś poszło nie tak: \"{{cause}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.head": "Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.head": "Groups",
+  "admin.access-control.groups.form.subgroups-list.head": "Grupy",
   
   // "admin.access-control.groups.form.subgroups-list.search.head": "Add Subgroup",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.search.head": "Add Subgroup",
+  "admin.access-control.groups.form.subgroups-list.search.head": "Dodaj podgrupę",
   
   // "admin.access-control.groups.form.subgroups-list.button.see-all": "Browse All",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.button.see-all": "Browse All",
+  "admin.access-control.groups.form.subgroups-list.button.see-all": "Wyświetl wszystko",
   
   // "admin.access-control.groups.form.subgroups-list.headSubgroups": "Current Subgroups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.headSubgroups": "Current Subgroups",
+  "admin.access-control.groups.form.subgroups-list.headSubgroups": "Aktualne podgrupy",
   
   // "admin.access-control.groups.form.subgroups-list.search.button": "Search",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.search.button": "Search",
+  "admin.access-control.groups.form.subgroups-list.search.button": "Wyszukaj",
   
   // "admin.access-control.groups.form.subgroups-list.table.id": "ID",
   // TODO New key - Add a translation
@@ -820,120 +820,120 @@
   
   // "admin.access-control.groups.form.subgroups-list.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.name": "Name",
+  "admin.access-control.groups.form.subgroups-list.table.name": "Nazwa",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit": "Remove / Add",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.edit": "Remove / Add",
+  "admin.access-control.groups.form.subgroups-list.table.edit": "Usuń / Dodaj",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Remove subgroup with name \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Remove subgroup with name \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Usuń podgrupę o nazwie \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Add subgroup with name \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Add subgroup with name \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Dodaj podgrupę o nazwie \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Current group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Current group",
+  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Aktualna grupa",
   
   // "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Successfully added subgroup: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Successfully added subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Udało się dodać podgrupę: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Failed to add subgroup: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Failed to add subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Nie udało się dodać podgrupy: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Successfully deleted subgroup: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Successfully deleted subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Udało się dodać podgrupę: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Failed to delete subgroup: \"{{name}}\"",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Failed to delete subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Nie udało się usunąć podgrupy: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "Brak aktywnej grupy, wpisz nazwę grupy.",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "This is the current group, can't be added.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "This is the current group, can't be added.",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "Ta grupa jest już stworzona i nie może zostać dodana.",
   
   // "admin.access-control.groups.form.subgroups-list.no-items": "No groups found with this in their name or this as UUID",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.no-items": "No groups found with this in their name or this as UUID",
+  "admin.access-control.groups.form.subgroups-list.no-items": "Nie znaleziono grup z tą nazwą lub UUID",
   
   // "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "No subgroups in group yet.",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "No subgroups in group yet.",
+  "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "Brak podgrup w grupie.",
   
   // "admin.access-control.groups.form.return": "Return to groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.return": "Return to groups",
+  "admin.access-control.groups.form.return": "Powrót do grup",
   
   
   
   // "admin.search.breadcrumbs": "Administrative Search",
   // TODO New key - Add a translation
-  "admin.search.breadcrumbs": "Administrative Search",
+  "admin.search.breadcrumbs": "Wyszukiwanie administracyjne",
   
   // "admin.search.collection.edit": "Edit",
   // TODO New key - Add a translation
-  "admin.search.collection.edit": "Edit",
+  "admin.search.collection.edit": "Edytuj",
   
   // "admin.search.community.edit": "Edit",
   // TODO New key - Add a translation
-  "admin.search.community.edit": "Edit",
+  "admin.search.community.edit": "Edytuj",
   
   // "admin.search.item.delete": "Delete",
   // TODO New key - Add a translation
-  "admin.search.item.delete": "Delete",
+  "admin.search.item.delete": "Usuń",
   
   // "admin.search.item.edit": "Edit",
   // TODO New key - Add a translation
-  "admin.search.item.edit": "Edit",
+  "admin.search.item.edit": "Edytuj",
   
   // "admin.search.item.make-private": "Make Private",
   // TODO New key - Add a translation
-  "admin.search.item.make-private": "Make Private",
+  "admin.search.item.make-private": "Ukryj",
   
   // "admin.search.item.make-public": "Make Public",
   // TODO New key - Add a translation
-  "admin.search.item.make-public": "Make Public",
+  "admin.search.item.make-public": "Upublicznij",
   
   // "admin.search.item.move": "Move",
   // TODO New key - Add a translation
-  "admin.search.item.move": "Move",
+  "admin.search.item.move": "Przenieś",
   
   // "admin.search.item.reinstate": "Reinstate",
   // TODO New key - Add a translation
-  "admin.search.item.reinstate": "Reinstate",
+  "admin.search.item.reinstate": "Zmień instancję",
   
   // "admin.search.item.withdraw": "Withdraw",
   // TODO New key - Add a translation
-  "admin.search.item.withdraw": "Withdraw",
+  "admin.search.item.withdraw": "Zrezygnuj",
   
   // "admin.search.title": "Administrative Search",
   // TODO New key - Add a translation
-  "admin.search.title": "Administrative Search",
+  "admin.search.title": "Wyszukiwanie administracyjne",
   
   // "administrativeView.search.results.head": "Administrative Search",
   // TODO New key - Add a translation
-  "administrativeView.search.results.head": "Administrative Search",
+  "administrativeView.search.results.head": "Wyszukiwanie administracyjne",
   
   
   
   
   // "admin.workflow.breadcrumbs": "Administer Workflow",
   // TODO New key - Add a translation
-  "admin.workflow.breadcrumbs": "Administer Workflow",
+  "admin.workflow.breadcrumbs": "Zarządzaj workflow",
   
   // "admin.workflow.title": "Administer Workflow",
   // TODO New key - Add a translation
-  "admin.workflow.title": "Administer Workflow",
+  "admin.workflow.title": "Zarządzaj workflow",
   
   // "admin.workflow.item.workflow": "Workflow",
   // TODO New key - Add a translation
@@ -941,329 +941,329 @@
   
   // "admin.workflow.item.delete": "Delete",
   // TODO New key - Add a translation
-  "admin.workflow.item.delete": "Delete",
+  "admin.workflow.item.delete": "Usuń",
   
   // "admin.workflow.item.send-back": "Send back",
   // TODO New key - Add a translation
-  "admin.workflow.item.send-back": "Send back",
+  "admin.workflow.item.send-back": "Odeślij",
   
   
   
   // "admin.metadata-import.breadcrumbs": "Import Metadata",
   // TODO New key - Add a translation
-  "admin.metadata-import.breadcrumbs": "Import Metadata",
+  "admin.metadata-import.breadcrumbs": "Importuj metadane",
   
   // "admin.metadata-import.title": "Import Metadata",
   // TODO New key - Add a translation
-  "admin.metadata-import.title": "Import Metadata",
+  "admin.metadata-import.title": "Importuj metadane",
   
   // "admin.metadata-import.page.header": "Import Metadata",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.header": "Import Metadata",
+  "admin.metadata-import.page.header": "Importuj metadane",
   
   // "admin.metadata-import.page.help": "You can drop or browse CSV files that contain batch metadata operations on files here",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.help": "You can drop or browse CSV files that contain batch metadata operations on files here",
+  "admin.metadata-import.page.help": "Możesz upuszczać lub przeglądać pliki CSV, które zawierają wsadowe operacje metadanych na plikach tutaj",
   
   // "admin.metadata-import.page.dropMsg": "Drop a metadata CSV to import",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.dropMsg": "Drop a metadata CSV to import",
+  "admin.metadata-import.page.dropMsg": "Upuść metadane w formacie CSV do importu",
   
   // "admin.metadata-import.page.dropMsgReplace": "Drop to replace the metadata CSV to import",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.dropMsgReplace": "Drop to replace the metadata CSV to import",
+  "admin.metadata-import.page.dropMsgReplace": "Upuść, aby zastąpić metadane w formacie CSV do importu",
   
   // "admin.metadata-import.page.button.return": "Return",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.button.return": "Return",
+  "admin.metadata-import.page.button.return": "Powrót",
   
   // "admin.metadata-import.page.button.proceed": "Proceed",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.button.proceed": "Proceed",
+  "admin.metadata-import.page.button.proceed": "Przejdź",
   
   // "admin.metadata-import.page.error.addFile": "Select file first!",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.error.addFile": "Select file first!",
+  "admin.metadata-import.page.error.addFile": "Najpierw wybierz plik!",
   
   
   
   
   // "auth.errors.invalid-user": "Invalid email address or password.",
   // TODO New key - Add a translation
-  "auth.errors.invalid-user": "Invalid email address or password.",
+  "auth.errors.invalid-user": "Niewłaściwy adres e-mail lub hasło",
   
   // "auth.messages.expired": "Your session has expired. Please log in again.",
   // TODO New key - Add a translation
-  "auth.messages.expired": "Your session has expired. Please log in again.",
+  "auth.messages.expired": "Twoja sesja wygasła. Zaloguj się ponownie",
   
   
   
   // "bitstream.edit.bitstream": "Bitstream: ",
   // TODO New key - Add a translation
-  "bitstream.edit.bitstream": "Bitstream: ",
+  "bitstream.edit.bitstream": "Strumień bitowy: ",
   
   // "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
   // TODO New key - Add a translation
-  "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
+  "bitstream.edit.form.description.hint": "Opcjonalnie wprowadź krótki opis pliku, np.: \"<i>Main article</i>\" lub \"<i>Experiment data readings</i>\".",
   
   // "bitstream.edit.form.description.label": "Description",
   // TODO New key - Add a translation
-  "bitstream.edit.form.description.label": "Description",
+  "bitstream.edit.form.description.label": "Opis",
   
   // "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
   // TODO New key - Add a translation
-  "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
+  "bitstream.edit.form.embargo.hint": "Pierwszy dzień, od kiedy dostęp zostanie udzielony. <b>Tej data nie może być edytować w tym formularzu.</b> Aby wybrać okres embarga czasowego, wybierz <i>Item Status</i> tab, kliknij <i>Authorizations...</i>, stwórz lub edytuj strumień bitowy <i>READ</i> zasady i wybierz określoną <i>Start Date</i>.",
   
   // "bitstream.edit.form.embargo.label": "Embargo until specific date",
   // TODO New key - Add a translation
-  "bitstream.edit.form.embargo.label": "Embargo until specific date",
+  "bitstream.edit.form.embargo.label": "Embargo do wybranej daty",
   
   // "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
   // TODO New key - Add a translation
-  "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
+  "bitstream.edit.form.fileName.hint": "Zmiana nazwy pliku dla strumienia bitów. Zauważ, że zmieni to wyświetlany adres URL strumienia bitów, ale stare linki nadal będą działać, o ile nie zmieni się identyfikator sekwencji.",
   
   // "bitstream.edit.form.fileName.label": "Filename",
   // TODO New key - Add a translation
-  "bitstream.edit.form.fileName.label": "Filename",
+  "bitstream.edit.form.fileName.label": "Nazwa pliku",
   
   // "bitstream.edit.form.newFormat.label": "Describe new format",
   // TODO New key - Add a translation
-  "bitstream.edit.form.newFormat.label": "Describe new format",
+  "bitstream.edit.form.newFormat.label": "Opisz nowy format",
   
   // "bitstream.edit.form.newFormat.hint": "The application you used to create the file, and the version number (for example, \"<i>ACMESoft SuperApp version 1.5</i>\").",
   // TODO New key - Add a translation
-  "bitstream.edit.form.newFormat.hint": "The application you used to create the file, and the version number (for example, \"<i>ACMESoft SuperApp version 1.5</i>\").",
+  "bitstream.edit.form.newFormat.hint": "Program, którego użyto do stworzenia pliku i numer wersji (np.: \"<i>ACMESoft SuperApp version 1.5</i>\").",
   
   // "bitstream.edit.form.primaryBitstream.label": "Primary bitstream",
   // TODO New key - Add a translation
-  "bitstream.edit.form.primaryBitstream.label": "Primary bitstream",
+  "bitstream.edit.form.primaryBitstream.label": "Początkowy strumień bitowy",
   
   // "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
   // TODO New key - Add a translation
-  "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
+  "bitstream.edit.form.selectedFormat.hint": "Jeśli formatu nie ma na powyższej liście, <b>wybierz \"format not in list\" above</b> i opisz jako \"Describe new format\".",
   
   // "bitstream.edit.form.selectedFormat.label": "Selected Format",
   // TODO New key - Add a translation
-  "bitstream.edit.form.selectedFormat.label": "Selected Format",
+  "bitstream.edit.form.selectedFormat.label": "Wybrany format",
   
   // "bitstream.edit.form.selectedFormat.unknown": "Format not in list",
   // TODO New key - Add a translation
-  "bitstream.edit.form.selectedFormat.unknown": "Format not in list",
+  "bitstream.edit.form.selectedFormat.unknown": "Tego formatu nie ma na liście",
   
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
   // TODO New key - Add a translation
-  "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
+  "bitstream.edit.notifications.error.format.title": "Wystąpił błąd podczas zapisu formatu strumienia bitowego",
   
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
   // TODO New key - Add a translation
-  "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
+  "bitstream.edit.notifications.saved.content": "Zmiany strumienia bitowego zostały zapisane.",
   
   // "bitstream.edit.notifications.saved.title": "Bitstream saved",
   // TODO New key - Add a translation
-  "bitstream.edit.notifications.saved.title": "Bitstream saved",
+  "bitstream.edit.notifications.saved.title": "Strumień bitowy został zapisany",
   
   // "bitstream.edit.title": "Edit bitstream",
   // TODO New key - Add a translation
-  "bitstream.edit.title": "Edit bitstream",
+  "bitstream.edit.title": "Edytuj strumień bitowy",
   
   
   
   // "browse.comcol.by.author": "By Author",
   // TODO New key - Add a translation
-  "browse.comcol.by.author": "By Author",
+  "browse.comcol.by.author": "wg autorów",
   
   // "browse.comcol.by.dateissued": "By Issue Date",
   // TODO New key - Add a translation
-  "browse.comcol.by.dateissued": "By Issue Date",
+  "browse.comcol.by.dateissued": "wg daty wydania",
   
   // "browse.comcol.by.subject": "By Subject",
   // TODO New key - Add a translation
-  "browse.comcol.by.subject": "By Subject",
+  "browse.comcol.by.subject": "wg dziedzin",
   
   // "browse.comcol.by.title": "By Title",
   // TODO New key - Add a translation
-  "browse.comcol.by.title": "By Title",
+  "browse.comcol.by.title": "wg tytułów",
   
   // "browse.comcol.head": "Browse",
   // TODO New key - Add a translation
-  "browse.comcol.head": "Browse",
+  "browse.comcol.head": "Przeglądaj",
   
   // "browse.empty": "No items to show.",
   // TODO New key - Add a translation
-  "browse.empty": "No items to show.",
+  "browse.empty": "Brak pozycji do wyświetlenia.",
   
   // "browse.metadata.author": "Author",
   // TODO New key - Add a translation
-  "browse.metadata.author": "Author",
+  "browse.metadata.author": "Autor",
   
   // "browse.metadata.dateissued": "Issue Date",
   // TODO New key - Add a translation
-  "browse.metadata.dateissued": "Issue Date",
+  "browse.metadata.dateissued": "Data wydania",
   
   // "browse.metadata.subject": "Subject",
   // TODO New key - Add a translation
-  "browse.metadata.subject": "Subject",
+  "browse.metadata.subject": "Dziedzina",
   
   // "browse.metadata.title": "Title",
   // TODO New key - Add a translation
-  "browse.metadata.title": "Title",
+  "browse.metadata.title": "Tytuł",
   
   // "browse.metadata.author.breadcrumbs": "Browse by Author",
   // TODO New key - Add a translation
-  "browse.metadata.author.breadcrumbs": "Browse by Author",
+  "browse.metadata.author.breadcrumbs": "Przeglądaj wg autorów",
   
   // "browse.metadata.dateissued.breadcrumbs": "Browse by Date",
   // TODO New key - Add a translation
-  "browse.metadata.dateissued.breadcrumbs": "Browse by Date",
+  "browse.metadata.dateissued.breadcrumbs": "Przeglądaj wg daty",
   
   // "browse.metadata.subject.breadcrumbs": "Browse by Subject",
   // TODO New key - Add a translation
-  "browse.metadata.subject.breadcrumbs": "Browse by Subject",
+  "browse.metadata.subject.breadcrumbs": "Przeglądaj wg dziedzin",
   
   // "browse.metadata.title.breadcrumbs": "Browse by Title",
   // TODO New key - Add a translation
-  "browse.metadata.title.breadcrumbs": "Browse by Title",
+  "browse.metadata.title.breadcrumbs": "Przeglądaj wg tytułów",
   
   // "browse.startsWith.choose_start": "(Choose start)",
   // TODO New key - Add a translation
-  "browse.startsWith.choose_start": "(Choose start)",
+  "browse.startsWith.choose_start": "(Wybierz start)",
   
   // "browse.startsWith.choose_year": "(Choose year)",
   // TODO New key - Add a translation
-  "browse.startsWith.choose_year": "(Choose year)",
+  "browse.startsWith.choose_year": "(Wybierz rok)",
   
   // "browse.startsWith.jump": "Jump to a point in the index:",
   // TODO New key - Add a translation
-  "browse.startsWith.jump": "Jump to a point in the index:",
+  "browse.startsWith.jump": "Przejdź do miejsca w indeksie:",
   
   // "browse.startsWith.months.april": "April",
   // TODO New key - Add a translation
-  "browse.startsWith.months.april": "April",
+  "browse.startsWith.months.april": "kwiecień",
   
   // "browse.startsWith.months.august": "August",
   // TODO New key - Add a translation
-  "browse.startsWith.months.august": "August",
+  "browse.startsWith.months.august": "sierpień",
   
   // "browse.startsWith.months.december": "December",
   // TODO New key - Add a translation
-  "browse.startsWith.months.december": "December",
+  "browse.startsWith.months.december": "grudzień",
   
   // "browse.startsWith.months.february": "February",
   // TODO New key - Add a translation
-  "browse.startsWith.months.february": "February",
+  "browse.startsWith.months.february": "luty",
   
   // "browse.startsWith.months.january": "January",
   // TODO New key - Add a translation
-  "browse.startsWith.months.january": "January",
+  "browse.startsWith.months.january": "styczeń",
   
   // "browse.startsWith.months.july": "July",
   // TODO New key - Add a translation
-  "browse.startsWith.months.july": "July",
+  "browse.startsWith.months.july": "lipiec",
   
   // "browse.startsWith.months.june": "June",
   // TODO New key - Add a translation
-  "browse.startsWith.months.june": "June",
+  "browse.startsWith.months.june": "czerwiec",
   
   // "browse.startsWith.months.march": "March",
   // TODO New key - Add a translation
-  "browse.startsWith.months.march": "March",
+  "browse.startsWith.months.march": "marzec",
   
   // "browse.startsWith.months.may": "May",
   // TODO New key - Add a translation
-  "browse.startsWith.months.may": "May",
+  "browse.startsWith.months.may": "maj",
   
   // "browse.startsWith.months.none": "(Choose month)",
   // TODO New key - Add a translation
-  "browse.startsWith.months.none": "(Choose month)",
+  "browse.startsWith.months.none": "(wybierz miesiąc)",
   
   // "browse.startsWith.months.november": "November",
   // TODO New key - Add a translation
-  "browse.startsWith.months.november": "November",
+  "browse.startsWith.months.november": "listopad",
   
   // "browse.startsWith.months.october": "October",
   // TODO New key - Add a translation
-  "browse.startsWith.months.october": "October",
+  "browse.startsWith.months.october": "październik",
   
   // "browse.startsWith.months.september": "September",
   // TODO New key - Add a translation
-  "browse.startsWith.months.september": "September",
+  "browse.startsWith.months.september": "wrzesień",
   
   // "browse.startsWith.submit": "Go",
   // TODO New key - Add a translation
-  "browse.startsWith.submit": "Go",
+  "browse.startsWith.submit": "Przejdź",
   
   // "browse.startsWith.type_date": "Or type in a date (year-month):",
   // TODO New key - Add a translation
-  "browse.startsWith.type_date": "Or type in a date (year-month):",
+  "browse.startsWith.type_date": "Lub wybierz datę (rok-miesiąc):",
   
   // "browse.startsWith.type_text": "Or enter first few letters:",
   // TODO New key - Add a translation
-  "browse.startsWith.type_text": "Or enter first few letters:",
+  "browse.startsWith.type_text": "Lub wpisz kilka pierwszych liter:",
   
   // "browse.title": "Browsing {{ collection }} by {{ field }} {{ value }}",
   // TODO New key - Add a translation
-  "browse.title": "Browsing {{ collection }} by {{ field }} {{ value }}",
+  "browse.title": "Przeglądaj {{ collection }} wg {{ field }} {{ value }}",
   
   
   // "chips.remove": "Remove chip",
   // TODO New key - Add a translation
-  "chips.remove": "Remove chip",
+  "chips.remove": "Usuń chip",
   
   
   
   // "collection.create.head": "Create a Collection",
   // TODO New key - Add a translation
-  "collection.create.head": "Create a Collection",
+  "collection.create.head": "Wybierz kolekcję",
   
   // "collection.create.notifications.success": "Successfully created the Collection",
   // TODO New key - Add a translation
-  "collection.create.notifications.success": "Successfully created the Collection",
+  "collection.create.notifications.success": "Udało się utworzyć kolekcję",
   
   // "collection.create.sub-head": "Create a Collection for Community {{ parent }}",
   // TODO New key - Add a translation
-  "collection.create.sub-head": "Create a Collection for Community {{ parent }}",
+  "collection.create.sub-head": "Udało się utworzyć kolekcję dla społeczności {{ parent }}",
   
   // "collection.curate.header": "Curate Collection: {{collection}}",
   // TODO New key - Add a translation
-  "collection.curate.header": "Curate Collection: {{collection}}",
+  "collection.curate.header": "Kurator kolekcji: {{collection}}",
   
   // "collection.delete.cancel": "Cancel",
   // TODO New key - Add a translation
-  "collection.delete.cancel": "Cancel",
+  "collection.delete.cancel": "Anuluj",
   
   // "collection.delete.confirm": "Confirm",
   // TODO New key - Add a translation
-  "collection.delete.confirm": "Confirm",
+  "collection.delete.confirm": "Zatwierdź",
   
   // "collection.delete.head": "Delete Collection",
   // TODO New key - Add a translation
-  "collection.delete.head": "Delete Collection",
+  "collection.delete.head": "Usuń kolekcję",
   
   // "collection.delete.notification.fail": "Collection could not be deleted",
   // TODO New key - Add a translation
-  "collection.delete.notification.fail": "Collection could not be deleted",
+  "collection.delete.notification.fail": "Kolekcja nie może być usunięta",
   
   // "collection.delete.notification.success": "Successfully deleted collection",
   // TODO New key - Add a translation
-  "collection.delete.notification.success": "Successfully deleted collection",
+  "collection.delete.notification.success": "Udało się usunąć kolekcję",
   
   // "collection.delete.text": "Are you sure you want to delete collection \"{{ dso }}\"",
   // TODO New key - Add a translation
-  "collection.delete.text": "Are you sure you want to delete collection \"{{ dso }}\"",
+  "collection.delete.text": "Czy na pewno chcesz usunąć kolekcję \"{{ dso }}\"",
   
   
   
   // "collection.edit.delete": "Delete this collection",
   // TODO New key - Add a translation
-  "collection.edit.delete": "Delete this collection",
+  "collection.edit.delete": "Usuń kolekcję",
   
   // "collection.edit.head": "Edit Collection",
   // TODO New key - Add a translation
-  "collection.edit.head": "Edit Collection",
+  "collection.edit.head": "Edytuj kolekcję",
   
   // "collection.edit.breadcrumbs": "Edit Collection",
   // TODO New key - Add a translation
-  "collection.edit.breadcrumbs": "Edit Collection",
+  "collection.edit.breadcrumbs": "Edytuj kolekcję",
   
   
   
@@ -1277,422 +1277,422 @@
   
   // "collection.edit.item-mapper.cancel": "Cancel",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.cancel": "Cancel",
+  "collection.edit.item-mapper.cancel": "Anuluj",
   
   // "collection.edit.item-mapper.collection": "Collection: \"<b>{{name}}</b>\"",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.collection": "Collection: \"<b>{{name}}</b>\"",
+  "collection.edit.item-mapper.collection": "Kolekcja: \"<b>{{name}}</b>\"",
   
   // "collection.edit.item-mapper.confirm": "Map selected items",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.confirm": "Map selected items",
+  "collection.edit.item-mapper.confirm": "Mapuj wybrane elementy",
   
   // "collection.edit.item-mapper.description": "This is the item mapper tool that allows collection administrators to map items from other collections into this collection. You can search for items from other collections and map them, or browse the list of currently mapped items.",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.description": "This is the item mapper tool that allows collection administrators to map items from other collections into this collection. You can search for items from other collections and map them, or browse the list of currently mapped items.",
+  "collection.edit.item-mapper.description": "To jest narzędzie mapowania elementów, które pozwala administratorom kolekcji mapować elementy z innych kolekcji do tej kolekcji. Możesz wyszukiwać elementy z innych kolekcji i mapować je lub przeglądać listę aktualnie zmapowanych elementów.",
   
   // "collection.edit.item-mapper.head": "Item Mapper - Map Items from Other Collections",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.head": "Item Mapper - Map Items from Other Collections",
+  "collection.edit.item-mapper.head": "Item Mapper - Mapuj pozycje z innych kolekcji",
   
   // "collection.edit.item-mapper.no-search": "Please enter a query to search",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.no-search": "Please enter a query to search",
+  "collection.edit.item-mapper.no-search": "Wpisz co chcesz wyszukać",
   
   // "collection.edit.item-mapper.notifications.map.error.content": "Errors occurred for mapping of {{amount}} items.",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.map.error.content": "Errors occurred for mapping of {{amount}} items.",
+  "collection.edit.item-mapper.notifications.map.error.content": "Wystąpiły błędy podczas mapowania {{amount}} pozycji.",
   
   // "collection.edit.item-mapper.notifications.map.error.head": "Mapping errors",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.map.error.head": "Mapping errors",
+  "collection.edit.item-mapper.notifications.map.error.head": "Mapowanie błędów",
   
   // "collection.edit.item-mapper.notifications.map.success.content": "Successfully mapped {{amount}} items.",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.map.success.content": "Successfully mapped {{amount}} items.",
+  "collection.edit.item-mapper.notifications.map.success.content": "Udało się zmapować {{amount}} elementów.",
   
   // "collection.edit.item-mapper.notifications.map.success.head": "Mapping completed",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.map.success.head": "Mapping completed",
+  "collection.edit.item-mapper.notifications.map.success.head": "Mapowanie zakończone",
   
   // "collection.edit.item-mapper.notifications.unmap.error.content": "Errors occurred for removing the mappings of {{amount}} items.",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.unmap.error.content": "Errors occurred for removing the mappings of {{amount}} items.",
+  "collection.edit.item-mapper.notifications.unmap.error.content": "Błędy wystąpiły podczas usuwania mapowania z {{amount}} elementów.",
   
   // "collection.edit.item-mapper.notifications.unmap.error.head": "Remove mapping errors",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.unmap.error.head": "Remove mapping errors",
+  "collection.edit.item-mapper.notifications.unmap.error.head": "Usuń błędy mapowania",
   
   // "collection.edit.item-mapper.notifications.unmap.success.content": "Successfully removed the mappings of {{amount}} items.",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.unmap.success.content": "Successfully removed the mappings of {{amount}} items.",
+  "collection.edit.item-mapper.notifications.unmap.success.content": "Udało się usunąć błędy mapowania z {{amount}} elementów.",
   
   // "collection.edit.item-mapper.notifications.unmap.success.head": "Remove mapping completed",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.notifications.unmap.success.head": "Remove mapping completed",
+  "collection.edit.item-mapper.notifications.unmap.success.head": "Usuwanie mapowania zakończone",
   
   // "collection.edit.item-mapper.remove": "Remove selected item mappings",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.remove": "Remove selected item mappings",
+  "collection.edit.item-mapper.remove": "Usuń wybrane mapowanie elementów",
   
   // "collection.edit.item-mapper.tabs.browse": "Browse mapped items",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.tabs.browse": "Browse mapped items",
+  "collection.edit.item-mapper.tabs.browse": "Wyszukaj mapowane elementy",
   
   // "collection.edit.item-mapper.tabs.map": "Map new items",
   // TODO New key - Add a translation
-  "collection.edit.item-mapper.tabs.map": "Map new items",
+  "collection.edit.item-mapper.tabs.map": "Mapuj nowe elementy",
   
   
   
   // "collection.edit.logo.label": "Collection logo",
   // TODO New key - Add a translation
-  "collection.edit.logo.label": "Collection logo",
+  "collection.edit.logo.label": "Logo kolekcji",
   
   // "collection.edit.logo.notifications.add.error": "Uploading Collection logo failed. Please verify the content before retrying.",
   // TODO New key - Add a translation
-  "collection.edit.logo.notifications.add.error": "Uploading Collection logo failed. Please verify the content before retrying.",
+  "collection.edit.logo.notifications.add.error": "Przesyłanie logo kolekcji nie powiodło się. Proszę zweryfikować zawartość przed ponowną próbą.",
   
   // "collection.edit.logo.notifications.add.success": "Upload Collection logo successful.",
   // TODO New key - Add a translation
-  "collection.edit.logo.notifications.add.success": "Upload Collection logo successful.",
+  "collection.edit.logo.notifications.add.success": "Udało się przesłać logo kolekcji",
   
   // "collection.edit.logo.notifications.delete.success.title": "Logo deleted",
   // TODO New key - Add a translation
-  "collection.edit.logo.notifications.delete.success.title": "Logo deleted",
+  "collection.edit.logo.notifications.delete.success.title": "Logo usunięte",
   
   // "collection.edit.logo.notifications.delete.success.content": "Successfully deleted the collection's logo",
   // TODO New key - Add a translation
-  "collection.edit.logo.notifications.delete.success.content": "Successfully deleted the collection's logo",
+  "collection.edit.logo.notifications.delete.success.content": "Udało się usunąć logo kolekcji",
   
   // "collection.edit.logo.notifications.delete.error.title": "Error deleting logo",
   // TODO New key - Add a translation
-  "collection.edit.logo.notifications.delete.error.title": "Error deleting logo",
+  "collection.edit.logo.notifications.delete.error.title": "Błąd podczas usuwania loga",
   
   // "collection.edit.logo.upload": "Drop a Collection Logo to upload",
   // TODO New key - Add a translation
-  "collection.edit.logo.upload": "Drop a Collection Logo to upload",
+  "collection.edit.logo.upload": "Upuść logo kolekcji, aby je wgrać",
   
   
   
   // "collection.edit.notifications.success": "Successfully edited the Collection",
   // TODO New key - Add a translation
-  "collection.edit.notifications.success": "Successfully edited the Collection",
+  "collection.edit.notifications.success": "Udało się edytować kolekcję",
   
   // "collection.edit.return": "Return",
   // TODO New key - Add a translation
-  "collection.edit.return": "Return",
+  "collection.edit.return": "Powrót",
   
   
   
   // "collection.edit.tabs.curate.head": "Curate",
   // TODO New key - Add a translation
-  "collection.edit.tabs.curate.head": "Curate",
+  "collection.edit.tabs.curate.head": "Kurator",
   
   // "collection.edit.tabs.curate.title": "Collection Edit - Curate",
   // TODO New key - Add a translation
-  "collection.edit.tabs.curate.title": "Collection Edit - Curate",
+  "collection.edit.tabs.curate.title": "Edytowanie kolekcji - kurator",
   
   // "collection.edit.tabs.authorizations.head": "Authorizations",
   // TODO New key - Add a translation
-  "collection.edit.tabs.authorizations.head": "Authorizations",
+  "collection.edit.tabs.authorizations.head": "Autoryzacje",
   
   // "collection.edit.tabs.authorizations.title": "Collection Edit - Authorizations",
   // TODO New key - Add a translation
-  "collection.edit.tabs.authorizations.title": "Collection Edit - Authorizations",
+  "collection.edit.tabs.authorizations.title": "Edytowanie kolekcji - autoryzacje",
   
   // "collection.edit.tabs.metadata.head": "Edit Metadata",
   // TODO New key - Add a translation
-  "collection.edit.tabs.metadata.head": "Edit Metadata",
+  "collection.edit.tabs.metadata.head": "Edytuj metadane",
   
   // "collection.edit.tabs.metadata.title": "Collection Edit - Metadata",
   // TODO New key - Add a translation
-  "collection.edit.tabs.metadata.title": "Collection Edit - Metadata",
+  "collection.edit.tabs.metadata.title": "Edytowanie kolekcji - metadane",
   
   // "collection.edit.tabs.roles.head": "Assign Roles",
   // TODO New key - Add a translation
-  "collection.edit.tabs.roles.head": "Assign Roles",
+  "collection.edit.tabs.roles.head": "Przypisz role",
   
   // "collection.edit.tabs.roles.title": "Collection Edit - Roles",
   // TODO New key - Add a translation
-  "collection.edit.tabs.roles.title": "Collection Edit - Roles",
+  "collection.edit.tabs.roles.title": "Edytowanie kolekcji - role",
   
   // "collection.edit.tabs.source.external": "This collection harvests its content from an external source",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.external": "This collection harvests its content from an external source",
+  "collection.edit.tabs.source.external": "Ta kolekcja pobiera swoją zawartość z zewnętrznego źródła",
   
   // "collection.edit.tabs.source.form.errors.oaiSource.required": "You must provide a set id of the target collection.",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.errors.oaiSource.required": "You must provide a set id of the target collection.",
+  "collection.edit.tabs.source.form.errors.oaiSource.required": "Musisz wskazać id docelowej kolekcji.",
   
   // "collection.edit.tabs.source.form.harvestType": "Content being harvested",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.harvestType": "Content being harvested",
+  "collection.edit.tabs.source.form.harvestType": "Odczytywanie zawartości",
   
   // "collection.edit.tabs.source.form.head": "Configure an external source",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.head": "Configure an external source",
+  "collection.edit.tabs.source.form.head": "Skonfiguruj zewnętrzne źródło",
   
   // "collection.edit.tabs.source.form.metadataConfigId": "Metadata Format",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.metadataConfigId": "Metadata Format",
+  "collection.edit.tabs.source.form.metadataConfigId": "Format metadanych",
   
   // "collection.edit.tabs.source.form.oaiSetId": "OAI specific set id",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.oaiSetId": "OAI specific set id",
+  "collection.edit.tabs.source.form.oaiSetId": "OAI określony zestaw id",
   
   // "collection.edit.tabs.source.form.oaiSource": "OAI Provider",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.oaiSource": "OAI Provider",
+  "collection.edit.tabs.source.form.oaiSource": "Dostawca OAI",
   
   // "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_BITSTREAMS": "Harvest metadata and bitstreams (requires ORE support)",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_BITSTREAMS": "Harvest metadata and bitstreams (requires ORE support)",
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_BITSTREAMS": "Odczytaj metadane i strumienie bitowe (wymaga wsparcia ORE)",
   
   // "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_REF": "Harvest metadata and references to bitstreams (requires ORE support)",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_REF": "Harvest metadata and references to bitstreams (requires ORE support)",
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_REF": "Odczytaj metadane i bibliografię (wymaga wsparcia ORE)",
   
   // "collection.edit.tabs.source.form.options.harvestType.METADATA_ONLY": "Harvest metadata only",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.form.options.harvestType.METADATA_ONLY": "Harvest metadata only",
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_ONLY": "Odczytaj tylko metadane",
   
   // "collection.edit.tabs.source.head": "Content Source",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.head": "Content Source",
+  "collection.edit.tabs.source.head": "Źródło treści",
   
   // "collection.edit.tabs.source.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
+  "collection.edit.tabs.source.notifications.discarded.content": "Twoje zmiany zostały odrzucone. Aby odzyskać swoje zmiany wybierz 'Powrót'",
   
   // "collection.edit.tabs.source.notifications.discarded.title": "Changed discarded",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.discarded.title": "Changed discarded",
+  "collection.edit.tabs.source.notifications.discarded.title": "Zmiany odrzucone",
   
   // "collection.edit.tabs.source.notifications.invalid.content": "Your changes were not saved. Please make sure all fields are valid before you save.",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.invalid.content": "Your changes were not saved. Please make sure all fields are valid before you save.",
+  "collection.edit.tabs.source.notifications.invalid.content": "Zmiany nie zostały zapisane. Sprawdź czy wszystkie pola są wypełnione poprawne przed zapisem.",
   
   // "collection.edit.tabs.source.notifications.invalid.title": "Metadata invalid",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.invalid.title": "Metadata invalid",
+  "collection.edit.tabs.source.notifications.invalid.title": "Metadane nieprawidłowe",
   
   // "collection.edit.tabs.source.notifications.saved.content": "Your changes to this collection's content source were saved.",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.saved.content": "Your changes to this collection's content source were saved.",
+  "collection.edit.tabs.source.notifications.saved.content": "Wprowadzone zmiany w kolekcji zostały zapisane.",
   
   // "collection.edit.tabs.source.notifications.saved.title": "Content Source saved",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.notifications.saved.title": "Content Source saved",
+  "collection.edit.tabs.source.notifications.saved.title": "Źródło treści zapisane",
   
   // "collection.edit.tabs.source.title": "Collection Edit - Content Source",
   // TODO New key - Add a translation
-  "collection.edit.tabs.source.title": "Collection Edit - Content Source",
+  "collection.edit.tabs.source.title": "Edytowanie kolekcji - Źródło treści",
   
   
   
   // "collection.edit.template.add-button": "Add",
   // TODO New key - Add a translation
-  "collection.edit.template.add-button": "Add",
+  "collection.edit.template.add-button": "Dodaj",
   
   // "collection.edit.template.breadcrumbs": "Item template",
   // TODO New key - Add a translation
-  "collection.edit.template.breadcrumbs": "Item template",
+  "collection.edit.template.breadcrumbs": "Szablon",
   
   // "collection.edit.template.cancel": "Cancel",
   // TODO New key - Add a translation
-  "collection.edit.template.cancel": "Cancel",
+  "collection.edit.template.cancel": "Anuluj",
   
   // "collection.edit.template.delete-button": "Delete",
   // TODO New key - Add a translation
-  "collection.edit.template.delete-button": "Delete",
+  "collection.edit.template.delete-button": "Usuń",
   
   // "collection.edit.template.edit-button": "Edit",
   // TODO New key - Add a translation
-  "collection.edit.template.edit-button": "Edit",
+  "collection.edit.template.edit-button": "Edytuj",
   
   // "collection.edit.template.head": "Edit Template Item for Collection \"{{ collection }}\"",
   // TODO New key - Add a translation
-  "collection.edit.template.head": "Edit Template Item for Collection \"{{ collection }}\"",
+  "collection.edit.template.head": "Edit szablon dla kolekcji \"{{ collection }}\"",
   
   // "collection.edit.template.label": "Template item",
   // TODO New key - Add a translation
-  "collection.edit.template.label": "Template item",
+  "collection.edit.template.label": "Szablon",
   
   // "collection.edit.template.notifications.delete.error": "Failed to delete the item template",
   // TODO New key - Add a translation
-  "collection.edit.template.notifications.delete.error": "Failed to delete the item template",
+  "collection.edit.template.notifications.delete.error": "Nie udało się usunąć szblonu",
   
   // "collection.edit.template.notifications.delete.success": "Successfully deleted the item template",
   // TODO New key - Add a translation
-  "collection.edit.template.notifications.delete.success": "Successfully deleted the item template",
+  "collection.edit.template.notifications.delete.success": "Udało się usunąć szablon",
   
   // "collection.edit.template.title": "Edit Template Item",
   // TODO New key - Add a translation
-  "collection.edit.template.title": "Edit Template Item",
+  "collection.edit.template.title": "Edytuj szablon",
   
   
   
   // "collection.form.abstract": "Short Description",
   // TODO New key - Add a translation
-  "collection.form.abstract": "Short Description",
+  "collection.form.abstract": "Opis skrócony",
   
   // "collection.form.description": "Introductory text (HTML)",
   // TODO New key - Add a translation
-  "collection.form.description": "Introductory text (HTML)",
+  "collection.form.description": "Tekst powitalny (HTML)",
   
   // "collection.form.errors.title.required": "Please enter a collection name",
   // TODO New key - Add a translation
-  "collection.form.errors.title.required": "Please enter a collection name",
+  "collection.form.errors.title.required": "Wpisz nazwę kolekcji",
   
   // "collection.form.license": "License",
   // TODO New key - Add a translation
-  "collection.form.license": "License",
+  "collection.form.license": "Licencja",
   
   // "collection.form.provenance": "Provenance",
   // TODO New key - Add a translation
-  "collection.form.provenance": "Provenance",
+  "collection.form.provenance": "Pochodzenie",
   
   // "collection.form.rights": "Copyright text (HTML)",
   // TODO New key - Add a translation
-  "collection.form.rights": "Copyright text (HTML)",
+  "collection.form.rights": "Tekst praw autorskich (HTML)",
   
   // "collection.form.tableofcontents": "News (HTML)",
   // TODO New key - Add a translation
-  "collection.form.tableofcontents": "News (HTML)",
+  "collection.form.tableofcontents": "Wiadomości (HTML)",
   
   // "collection.form.title": "Name",
   // TODO New key - Add a translation
-  "collection.form.title": "Name",
+  "collection.form.title": "Nazwa",
   
   
   
   // "collection.listelement.badge": "Collection",
   // TODO New key - Add a translation
-  "collection.listelement.badge": "Collection",
+  "collection.listelement.badge": "Kolekcja",
   
   
   
   // "collection.page.browse.recent.head": "Recent Submissions",
   // TODO New key - Add a translation
-  "collection.page.browse.recent.head": "Recent Submissions",
+  "collection.page.browse.recent.head": "Ostatnie zgłoszenia",
   
   // "collection.page.browse.recent.empty": "No items to show",
   // TODO New key - Add a translation
-  "collection.page.browse.recent.empty": "No items to show",
+  "collection.page.browse.recent.empty": "Brak zawartości do wyświetlenia",
   
   // "collection.page.edit": "Edit this collection",
   // TODO New key - Add a translation
-  "collection.page.edit": "Edit this collection",
+  "collection.page.edit": "edytuj kolekcję",
   
   // "collection.page.handle": "Permanent URI for this collection",
   // TODO New key - Add a translation
-  "collection.page.handle": "Permanent URI for this collection",
+  "collection.page.handle": "Stały URI kolekcji",
   
   // "collection.page.license": "License",
   // TODO New key - Add a translation
-  "collection.page.license": "License",
+  "collection.page.license": "Licencja",
   
   // "collection.page.news": "News",
   // TODO New key - Add a translation
-  "collection.page.news": "News",
+  "collection.page.news": "Wiadomości",
   
   
   
   // "collection.select.confirm": "Confirm selected",
   // TODO New key - Add a translation
-  "collection.select.confirm": "Confirm selected",
+  "collection.select.confirm": "Zaakceptuj zaznaczone",
   
   // "collection.select.empty": "No collections to show",
   // TODO New key - Add a translation
-  "collection.select.empty": "No collections to show",
+  "collection.select.empty": "Brak kolekcji do pokazania",
   
   // "collection.select.table.title": "Title",
   // TODO New key - Add a translation
-  "collection.select.table.title": "Title",
+  "collection.select.table.title": "Tytuł",
   
   
   
   // "collection.source.update.notifications.error.content": "The provided settings have been tested and didn't work.",
   // TODO New key - Add a translation
-  "collection.source.update.notifications.error.content": "The provided settings have been tested and didn't work.",
+  "collection.source.update.notifications.error.content": "Te ustawienia zostały przetestowane i nie działają.",
   
   // "collection.source.update.notifications.error.title": "Server Error",
   // TODO New key - Add a translation
-  "collection.source.update.notifications.error.title": "Server Error",
+  "collection.source.update.notifications.error.title": "Błąd serwera",
   
   
   
   // "communityList.tabTitle": "DSpace - Community List",
   // TODO New key - Add a translation
-  "communityList.tabTitle": "DSpace - Community List",
+  "communityList.tabTitle": "DSpace - lista społeczności",
   
   // "communityList.title": "List of Communities",
   // TODO New key - Add a translation
-  "communityList.title": "List of Communities",
+  "communityList.title": "Lista społeczności",
   
   // "communityList.showMore": "Show More",
   // TODO New key - Add a translation
-  "communityList.showMore": "Show More",
+  "communityList.showMore": "Pokaż więcej",
   
   
   
   // "community.create.head": "Create a Community",
   // TODO New key - Add a translation
-  "community.create.head": "Create a Community",
+  "community.create.head": "Utwórz społeczność",
   
   // "community.create.notifications.success": "Successfully created the Community",
   // TODO New key - Add a translation
-  "community.create.notifications.success": "Successfully created the Community",
+  "community.create.notifications.success": "Udało się utworzyć społeczność",
   
   // "community.create.sub-head": "Create a Sub-Community for Community {{ parent }}",
   // TODO New key - Add a translation
-  "community.create.sub-head": "Create a Sub-Community for Community {{ parent }}",
+  "community.create.sub-head": "Utwórz społeczność podrzędną dla społeczności {{ parent }}",
   
   // "community.curate.header": "Curate Community: {{community}}",
   // TODO New key - Add a translation
-  "community.curate.header": "Curate Community: {{community}}",
+  "community.curate.header": "Kurator społeczności: {{community}}",
   
   // "community.delete.cancel": "Cancel",
   // TODO New key - Add a translation
-  "community.delete.cancel": "Cancel",
+  "community.delete.cancel": "Anuluj",
   
   // "community.delete.confirm": "Confirm",
   // TODO New key - Add a translation
-  "community.delete.confirm": "Confirm",
+  "community.delete.confirm": "Zatwierdź",
   
   // "community.delete.head": "Delete Community",
   // TODO New key - Add a translation
-  "community.delete.head": "Delete Community",
+  "community.delete.head": "Usuń społeczność",
   
   // "community.delete.notification.fail": "Community could not be deleted",
   // TODO New key - Add a translation
-  "community.delete.notification.fail": "Community could not be deleted",
+  "community.delete.notification.fail": "Społeczność nie może zostać usunięta",
   
   // "community.delete.notification.success": "Successfully deleted community",
   // TODO New key - Add a translation
-  "community.delete.notification.success": "Successfully deleted community",
+  "community.delete.notification.success": "Udało się usunąć społeczność",
   
   // "community.delete.text": "Are you sure you want to delete community \"{{ dso }}\"",
   // TODO New key - Add a translation
-  "community.delete.text": "Are you sure you want to delete community \"{{ dso }}\"",
+  "community.delete.text": "Czy na pewno chcesz usunąć społeczność \"{{ dso }}\"",
   
   // "community.edit.delete": "Delete this community",
   // TODO New key - Add a translation
-  "community.edit.delete": "Delete this community",
+  "community.edit.delete": "Usuń tę społeczność",
   
   // "community.edit.head": "Edit Community",
   // TODO New key - Add a translation
-  "community.edit.head": "Edit Community",
+  "community.edit.head": "Edytuj społeczność",
   
   // "community.edit.breadcrumbs": "Edit Community",
   // TODO New key - Add a translation
-  "community.edit.breadcrumbs": "Edit Community",
+  "community.edit.breadcrumbs": "Edytuj społeczność",
   
   
   // "community.edit.logo.label": "Community logo",
   // TODO New key - Add a translation
-  "community.edit.logo.label": "Community logo",
+  "community.edit.logo.label": "Logo społeczności",
   
   // "community.edit.logo.notifications.add.error": "Uploading Community logo failed. Please verify the content before retrying.",
   // TODO New key - Add a translation
